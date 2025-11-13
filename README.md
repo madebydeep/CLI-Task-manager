@@ -1,5 +1,5 @@
 # CLI-Task-manager
-A CLI-based task manager with the ability to _add_, _update_, mark _status changes_, and even _delete_ your tasks, for an __easy and coder-friendly interface__, made with the guidance from [roadmap.sh](https://roadmap.sh/projects/task-tracker).
+A CLI-based task manager with the ability to _add_, _update_, mark _status changes_, and even _delete_ your tasks, for an __easy and productive task management__, made with the guidance from [roadmap.sh](https://roadmap.sh/projects/task-tracker).
 
 ## 👀 Features include:
   ↳ __INSERTION__: Adding tasks using the argument `-add`. <br>
